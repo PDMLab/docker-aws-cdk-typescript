@@ -10,4 +10,5 @@ docker pull pdmlab/aws-cdk:<version>
 
 [See](https://hub.docker.com/r/pdmlab/aws-cdk/tags) list of all tags at Docker Hub.
 
+- `1.14.0`
 - `1.13.0`
